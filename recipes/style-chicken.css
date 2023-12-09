@@ -2,6 +2,6 @@ body{
     background-color: black;
 }
 p ,ol,h1,h3{
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+    font-family: "Lucida Sans", 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
     color: white;
 }
