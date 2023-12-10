@@ -1,8 +1,57 @@
-p, h1, h2{
-    font-family: 'Courier New', Courier, monospace;
-    color: white;
-}
-
 body{
+
+    background: #eee;
+    font-family: Courier, monospace;
+}
+div{
+    width: 400px; 
+    padding: 35px;
+    background-color: #fff;
+    margin: 16px auto;
+}
+h1{
+    background-color: #548CA8;
+    text-align: center;
+    color: rgb(6, 25, 60);
+    padding: 10px;
+    
+}
+h2{
+    text-align: center;
+    background-color:  #334257;
+    color: rgb(188, 196, 250);
+    padding: 10px;
+    margin-top: 40px;
+    margin-bottom: -1rem;
+}
+p{
+    text-align: center;
+    margin-top: 0px;
+}
+.chicken{
+    display: block;
+    padding: 30px;
+    background-color: rgb(21, 80, 80);
+    color: rgb(104, 177, 187);
+    font-weight: 800;
+    
+}
+.chicken:hover{
     background-color: black;
+    color:aliceblue ;
+    font-weight: 800;
+}
+.salmon-button{
+    display: block;
+    text-align: center;
+    padding: 30px;
+    margin: auto;
+    background-color: blueviolet;
+    color: rgb(66, 2, 66);
+    font-weight: 800;
+}
+.salmon-button:hover{
+    background-color: black;
+    color:aliceblue ;
+    font-weight: 800;
 }
